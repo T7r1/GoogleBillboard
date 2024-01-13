@@ -13,7 +13,14 @@ public void setup()
     //System.out.println(dNum);  //displays 7.182818284E9}
     if (isPrime(dNum)) {
       ans=dNum;
-      System.out.println(ans);
+
+
+//ANSWER
+
+     //System.out.println(ans);
+
+//AMSWER
+
 
       return;
     }
