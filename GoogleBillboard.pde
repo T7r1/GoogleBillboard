@@ -15,11 +15,11 @@ public void setup()
       ans=dNum;
 
 
-//ANSWER (uncomment it in processing)
+//ANSWER (uncomment it in processing for answer)
 
      //System.out.println(ans);
 
-//AMSWER (uncomment it in processing)
+//AMSWER (uncomment it in processing for answer)
 
 
       return;
